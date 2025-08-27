@@ -1,30 +1,10 @@
-# ⚡ N8N Workflow Collection & Documentation
-
+#  N8N Workflow Collection & Documentation (cloned, modified & edited. credits go to zie)
+As of August 27, 2025
 A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
-
-> **⚠️ IMPORTANT NOTICE (Aug 14, 2025):** Repository history has been rewritten due to DMCA compliance. If you have a fork or local clone, please see [Issue #X](https://github.com/Zie619/n8n-workflows/issues) for instructions on syncing your copy.
-> 
-## Support My Work
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/zie619)
 
 If you'd like to say thanks, consider buying me a coffee—your support helps me keep improving this project!
 
 ## 🚀 **NEW: High-Performance Documentation System**
-
-**Experience 100x performance improvement over traditional documentation!**
-
-### Quick Start - Fast Documentation System
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Start the fast API server
-python run.py
-
-# Open in browser
-http://localhost:8000
-```
 
 **Features:**
 - ⚡ **Sub-100ms response times** with SQLite FTS5 search
@@ -466,4 +446,5 @@ This comprehensive collection includes workflows from:
 ---
 
 [中文](./README_ZH.md)
+
 
