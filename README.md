@@ -1,10 +1,6 @@
-#  N8N Workflow Collection & Documentation (cloned, modified & edited. credits go to zie)
-As of August 27, 2025
-A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
-
-If you'd like to say thanks, consider buying me a coffee—your support helps me keep improving this project!
-
-## 🚀 **NEW: High-Performance Documentation System**
+###  N8N Workflow Collection & Documentation
+(cloned, modified & edited. credits go to zie) As of August 27, 2025
+collection 2,053 n8n workflows
 
 **Features:**
 - ⚡ **Sub-100ms response times** with SQLite FTS5 search
@@ -444,7 +440,5 @@ This comprehensive collection includes workflows from:
 **🎯 Perfect for**: Developers, automation engineers, business analysts, and anyone looking to streamline their workflows with proven n8n automations.
 
 ---
-
-[中文](./README_ZH.md)
 
 
